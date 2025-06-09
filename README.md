@@ -1,4 +1,5 @@
 what is blockchain ?
+
 Blockchain is like a digital notebook that is shared across many computers. It records data or transactions in blocks. Each block is connected to the one before it using a special digital fingerprint called a hash. Once data is added to a block, it can’t be changed without changing all the following blocks, which is very difficult. This makes blockchain very secure and trustworthy. Unlike regular systems where one company controls the data, blockchain has no single owner—it works with the help of many users (called nodes) who verify and share the same data. It’s mostly known for being the technology behind cryptocurrencies like Bitcoin, but it’s also useful in many areas like supply chains and identity systems.
 
 Two Real-Life Use Cases of Blockchain ---
