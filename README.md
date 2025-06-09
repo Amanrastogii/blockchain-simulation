@@ -23,6 +23,7 @@ With blockchain, people can have a digital ID that they control. It allows secur
 | Current Hash   : 00001e87bbf3...        |
 +-----------------------------------------+
 
+
  Merkle Root Explanation---
 The Merkle root is a single hash that represents all the transactions in a block. Imagine you have four transactions: T1, T2, T3, and T4.
 First, each transaction is hashed: H1 = hash(T1), H2 = hash(T2), etc.
